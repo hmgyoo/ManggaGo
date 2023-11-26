@@ -1,0 +1,801 @@
+filename,label
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161849 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123545 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_123924 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162807 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_150331 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163054 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155556 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_140804 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161828 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163831 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163638 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154056 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_170206 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143145 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160656 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170254 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143106 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_190448 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211008_124341 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_140649 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162502 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_145302 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163107 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135856 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161346 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122018 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_130152 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_134012 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_170538 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123302 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142613 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_171141 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_002138 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160808 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161111 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135654 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124348 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162507 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124228 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162855 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161732 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164214 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122930 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163021 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122954 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121901 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162201 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161042 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162718 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161448 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162516 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162705 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124354 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162747 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161610 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_134654 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_123801 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142110 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162239 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162356 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_143223 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142949 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164135 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140624 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_165851 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153324 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121815 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170155 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162223 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_121019 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143155 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140440 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164026 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162537 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_182209 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162425 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_160835 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163844 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161452 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153243 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162514 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122309 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_121138 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160747 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121341 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_121320 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162445 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164514 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_161718 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160504 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162612 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163303 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135321 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165843 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_134556 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_130238 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160643 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121823 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155045 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135207 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163825 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124920 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164012 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154942 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164339 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153159 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_120823 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164405 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161419 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_154732 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162242 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135400 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164145 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_140343 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141714 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141055 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163126 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_003454 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121158 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_170419 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170230 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_123958 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142809 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_134403 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123018 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211008_125052 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140621 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164459 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164054 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162338 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124033 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_134405 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165901 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211008_124501 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161457 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_003413 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_150308 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122104 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121900 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_193648 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141316 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122958 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135148 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_170824 - Copy - Copy - Copy (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161559 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_193558 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135232 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_120811 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161959 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162428(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161629 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164420 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154139 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135025 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161648 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122032 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162446 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160626 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161400 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163653 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122206 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165339 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161145(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140600 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160359 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141245 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164702 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164044 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122146 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162830 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163942 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_170252 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_152930 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162101 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161957 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124843 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162102 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_130115 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162415 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135927 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162851 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163136 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_170534 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162417 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122714 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161900 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_193755 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162613 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142856 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_170706 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162024 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135518 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140344 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161935 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155827 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124419 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162607 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122015 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164356 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161619 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162424 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211008_125112 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160949 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162349 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_121028 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211008_113726 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164328 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162009 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_140006 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_121336 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123520 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164454 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125115 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162130 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_150324 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163656 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_122313 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164123 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_120151 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_002804 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_121405 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162635 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122248 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164049 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_193553 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162308 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160532 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141242 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_154828 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_161655 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153551 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135845 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163322 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_125015 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160448 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125047 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121904 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135411 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_002057 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164415 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162135 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160758 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121655 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211008_124931 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_134908 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162959 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_134516 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_161345 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_121329 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_122251 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124148 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_120225 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161202 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_134930 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142816 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121952 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123054 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_143716 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153453 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165701 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135144 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153419 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_160942 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160518 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_121344 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161321 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123021 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121351 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122017 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143143 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162036 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142554 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161952 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160435 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_143057 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124645 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160931 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161137 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155737 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125014 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_155353 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_131115 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125922 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161828 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161623 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153336 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125021 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162521 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_140429 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161505 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_182159 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_134855 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121751 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_133815 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143238 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124047 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170308 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_122446 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161952 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165443 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165812 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121854 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_194857 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_130100 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154103 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162500 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153247 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162528 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153406 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_160005 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_170212 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161616 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170203 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162909 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161454 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162502 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121839 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153352 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_145253 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162415 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162512 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160633 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_143228 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170218 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122349 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162350 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135827 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122315 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125651 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162158 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162218 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160727 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161859(0) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122343 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_160831 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161147 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_143729 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163834 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_003200 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163051 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160857 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121321 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163723 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161142 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121828 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162722 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143305 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_193728 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_123305 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160330 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162138 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123647 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161625 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135140 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_143133 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_130108 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122310 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161610 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140502 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_190339 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124155 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161323 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_130023 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161605 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143159 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_182142 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162359 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163012 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162525 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_130306 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164355 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163003 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142707 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162059 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162952 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164000 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123629 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121711 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_134644 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162055 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_164219 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141848 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161656(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153223 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161717 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160946 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123626 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122352 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_120937 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125938 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122317 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_002322 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143310 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142921 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161830 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163759 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121648 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122024 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161309 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_125032 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160917 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163210 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143223 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164630 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_115512 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_165907 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140557 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164312 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155954 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154205 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_150516 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161843 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161333 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_121440 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143307 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162230 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121615 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121744 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125147 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164230 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153301 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161953 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123839 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160754 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162302 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161413 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154319 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124957 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143152 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155920 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162433 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161439 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123528 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140521 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_170357 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162453 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121236 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211008_125014 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161623 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_121401 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124101 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160434 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170149 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162433 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140551 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163111 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161609 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140300 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_123734 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_145316 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142652 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_122456 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135534 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_144912 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160558 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163711 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_160015 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155815 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135408 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122357 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162752 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_125815 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125040 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141154 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163657 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161408 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121757 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164457 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162042 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154927 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140539 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161515 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161121 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135449 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161458 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160646 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122336 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162448 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_171141 - Copy - Copy - Copy (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_160904 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154044 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124813 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141049 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162454(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162212 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164132 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125450 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163236 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160615 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_120822 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143213 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_194742 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162526 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_125322 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163732 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165644 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161458 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164913 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_002822 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155750 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_002119 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162412 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123922 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_145129 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121425 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155606 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121611 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163041 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162127 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170314 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163201 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162541 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143043 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162755 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141652 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121933 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125209 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143103 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154252 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122708 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163754 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122519 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161631 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162530(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162105 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162120 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161859(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_123710 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155457 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162011 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163005 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161909 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122128 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155704 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_130205 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161403 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122144 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165803 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142928 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123816 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162051 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170200 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123124 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162037 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211008_113736 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142759 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122256 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121301 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160908 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123635 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162434(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162114 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162150 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162952 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_134938 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_123253 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162055 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_121325 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123057 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164218 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_122647 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160353 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_134416 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164051 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_002133 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164346 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121648 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_170720 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141320 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160500 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121358 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162842 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_131259 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154816 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_123243 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_145327 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_125548 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121906 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_160519 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162616 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161650(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_122406 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_161628 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162153 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164425 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124017 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_140031 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154839 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_125350 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135521 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123201 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162629 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_003457 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_161343 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124501 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161150 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163930 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143404 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_002047 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162125(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_130221 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161440 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162844 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161625 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_155348 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122314 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_120951 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153604 - Copy (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_143111 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_160853 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161954 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121702 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_125042 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_130024 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142850 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121506 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162132 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161502 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122030 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162534 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_150000 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122048 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122340 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142847_1 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135253 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_133438 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161410 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162511 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163002 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_143230 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_154939 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_160904(0) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162131(0) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_154728 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123637 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162044 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170029 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160856 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123037 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154919 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_164551 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163640 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154127 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_170725 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162049 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_134420 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_121141 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163903 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162644 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164147 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161614 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162620(0) (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125438 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164034 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161155 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_165914 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_134655(0) (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160705 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_115453 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125107 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162153 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_193732 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165918 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_143244 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161913(0) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162517 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124515 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162654 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163635 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155646 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125235 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161641(0) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_121115 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_144843 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161627 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_155417 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122509 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142747 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161011 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162125(0) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_170546 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162222 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_162818 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162705 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_115709 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_134804 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163812 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_125121 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161205 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135324 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_134629 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155053 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_164039 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160425 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135023 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165446 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_164644 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170244 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122327 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_153236 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162422 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_144925 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122625 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123505 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_165845 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_121523 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161413 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_003644 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211008_124306 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_133431 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154958 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_121149 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155437 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_122151(0) (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161244 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160902 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170013 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_141645 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_161636 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_134634 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125321 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161323 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162015 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161317 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162403 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154257 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_183432 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_143303 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162552 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_130101 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/20211109_121223 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_120804 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122530 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162527 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211008_124305 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161840 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135218 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_155916 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_161135 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161544 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_155443 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142828 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161616 (Custom)(1).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135958_1 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162105 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_165922 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162140 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124655 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124055 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_162217 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162425 (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161620 (Custom)(1).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162106 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_150352 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123436 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_160344 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124140 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_125605 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_120928 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_163233 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_142738 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170213 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_122339 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163006 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Cutting Weevil/20211011_162110 (Custom) (Custom).jpg,Cutting Weevil
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124546 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125447 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_123502 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_161507 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124041 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_124429 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211028_003845 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123027 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_130215 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211108_123153 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154235 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162744 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_115520 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_145305 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Bacterial Canker/IMG_20211106_135800 (Custom).jpg,Bacterial Canker
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_161353 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_170222 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163018 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_162416 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211212_143324 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_170204 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_154230 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_161857 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_124941 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_162548 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Gall Midge/IMG_20211106_165423 (Custom).jpg,Gall Midge
+/kaggle/input/mango-leaf-disease-dataset/Die Back/IMG_20211027_194824 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Healthy/20211231_123951 (Custom).jpg,Healthy
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211008_124933 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/20211011_165919 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Anthracnose/IMG_20211011_140639 (Custom).jpg,Anthracnose
+/kaggle/input/mango-leaf-disease-dataset/Sooty Mould/IMG_20211211_155021 (Custom).jpg,Sooty Mould
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_163744 (Custom).jpg,Die Back
+/kaggle/input/mango-leaf-disease-dataset/Powdery Mildew/IMG_20211107_125407 (Custom).jpg,Powdery Mildew
+/kaggle/input/mango-leaf-disease-dataset/Die Back/20211129_160516 (Custom).jpg,Die Back
