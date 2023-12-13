@@ -136,7 +136,7 @@ const useStyles = makeStyles((theme) => ({
     alignItems: 'center',
   },
   appbar: {
-    background: '#be6a77',
+    background: '#ffc324',
     boxShadow: 'none',
     color: 'white'
   },
@@ -243,7 +243,7 @@ export const ImageUpload = () => {
               {!image && <CardContent className={classes.content}>
                 <DropzoneArea
                   acceptedFiles={['image/*']}
-                  dropzoneText={"Drag and drop an image of a potato plant leaf to process"}
+                  dropzoneText={"Drag and drop an image of a mango leaf to process"}
                   onChange={onSelectFile}
                 />
               </CardContent>}

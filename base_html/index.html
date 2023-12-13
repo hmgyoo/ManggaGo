@@ -1,0 +1,108 @@
+<!-- <!DOCTYPE html>
+
+<html
+ 
+lang="en">
+
+<head>
+
+    
+<meta
+ 
+charset="UTF-8">
+
+    
+<meta
+ 
+name="viewport"
+ 
+content="width=device-width, initial-scale=1.0">
+
+    
+<title>Mango Disease Detection</title>
+    <style>
+        #video-container {
+            width: 100%;
+            height: 300px;
+            border: 1px solid #ccc;
+        }
+
+        #capture-button {
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        #prediction-container {
+            padding: 20px;
+            border: 1px solid #ccc;
+            margin-top: 20px;
+        }
+
+        #predicted-class {
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        #confidence-level {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div id="video-container"></div>
+
+    <button id="capture-button">Capture Image</button>
+
+    <div id="prediction-container" style="display: none;">
+        <p id="predicted-class"></p>
+        <p id="confidence-level"></p>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.4.0/socket.io.js"></script>
+    <script>
+        const socket = io('http://localhost:3000');
+
+        // Get reference to video element
+        const videoElement = document.getElementById('video-container');
+
+        // Capture image on button click
+        const captureButton = document.getElementById('capture-button');
+        captureButton.addEventListener('click', () => {
+            // Grab the current frame from the video
+            const canvas = document.createElement('canvas');
+            canvas.width = videoElement.videoWidth;
+            canvas.height = videoElement.videoHeight;
+            const ctx = canvas.getContext('2d');
+            ctx.drawImage(videoElement, 0, 0, canvas.width, canvas.height);
+
+            // Convert canvas to base64 image
+            const imageData = canvas.toDataURL('image/jpeg', 0.7);
+
+            // Send the captured image to the server for prediction
+            socket.emit('predict', imageData);
+        });
+
+        // Display the predicted class and confidence level
+        socket.on('prediction_result', (data) => {
+            const predictionContainer = document.getElementById('prediction-container');
+            predictionContainer.style.display = 'block';
+
+            const predictedClassElement = document.getElementById('predicted-class');
+            predictedClassElement.textContent = `Predicted Class: ${data.class}`;
+
+            const confidenceLevelElement = document.getElementById('confidence-level');
+            confidenceLevelElement.textContent = `Confidence Level: ${data.confidence}%`;
+        });
+
+        // Connect to the ESP32 camera stream
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then(stream => {
+                videoElement.srcObject = stream;
+                videoElement.play();
+            });
+    </script>
+</body>
+</html> -->
