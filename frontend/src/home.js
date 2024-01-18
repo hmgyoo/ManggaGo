@@ -214,7 +214,7 @@ export const ImageUpload = () => {
       <AppBar position="static" className={classes.appbar}>
         <Toolbar>
           <Typography className={classes.title} variant="h6" noWrap>
-            Mango Leaf Disease Classification
+            ManggaGo: Mango Leaf Disease Classifier
           </Typography>
           <div className={classes.grow} />
           <Avatar src={mangologo}></Avatar>
